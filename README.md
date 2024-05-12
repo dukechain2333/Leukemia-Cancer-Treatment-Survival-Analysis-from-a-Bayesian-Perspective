@@ -1,1 +1,1 @@
-# Bayesian-Logistic-Regression-Cancer-Prediction-with-MCMC-Sampling
+# Leukemia Cancer Treatment Survival Analysis from a Bayesian Perspective
